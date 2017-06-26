@@ -1,4 +1,4 @@
-﻿FROM andrewosh/binder-base
+FROM andrewosh/binder-base
 
 MAINTAINER Andrew Osheroff <andrewosh@gmail.com>
 
